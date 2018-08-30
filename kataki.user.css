@@ -1,0 +1,68 @@
+/* ==UserStyle==
+@name           Kataki
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    An user style for ShopHardWare configurator called Kataki.
+@author         OzakI/OzakIOne
+==/UserStyle== */
+
+@-moz-document url-prefix("https://shop.hardware.fr/configurateur/") {
+    body{
+    background-color: #202020;
+}
+
+*, body {
+    color: #9a9a9a;
+}
+
+.sbloc{
+    background-color: #303030;
+}
+
+.configurateur .elements .item {
+    background: #303030;
+}
+
+.composant {
+    background-color: #272727;
+}
+
+#modal-products .subtitle-h3 {
+    background-color: #272727;
+}
+
+#modal-products .modal-body {
+    background-color: #303030;
+}
+
+.item-list {
+    border: 1px solid #303030;
+}
+
+table.dataTable.display tbody tr.active, table.dataTable.display tbody tr.active td, table.dataTable.display tbody tr.even.active, table.dataTable.display tbody tr.even.active td, table.dataTable.display tbody tr.even:hover, table.dataTable.display tbody tr.even:hover td, table.dataTable.display tbody tr.odd.active, table.dataTable.display tbody tr.odd.active td, table.dataTable.display tbody tr.odd:hover, table.dataTable.display tbody tr.odd:hover td, table.dataTable.display tbody tr:hover, table.dataTable.display tbody tr:hover td {
+    background-color: #001932;
+}
+
+.item-list .item-table-body tr, table.dataTable.display tbody tr, table.dataTable.display tbody tr.even, table.dataTable.display tbody tr.odd {
+    background-color: #272727;   
+}
+
+.item-list .item-table-body .item-designation span.product-name {
+    color: #707070;
+}
+
+.dropdown .input{
+    border: 1px solid #303030;
+    box-shadow:0 1px 0 0 #303030;
+    background-color: #272727;
+}
+
+.dropdown .list .drop {
+    background-color: #272727;
+
+}
+
+.modal-content {
+    background-color: #202020;
+}
+}
