@@ -1,38 +1,34 @@
 # Kataki
 
-<img src="https://i.imgur.com/dgu1y1R.png" width="100%">
+![Kataki](https://i.imgur.com/dgu1y1R.png)
 
-Preview of <i>Kataki</i>.
+Preview of *Kataki*.
 
-About
--------------------------------
-
-<i>Kataki</i> is an user style for <i>ShopHardWare</i>.
+## About
+*Kataki* is an user style for *ShopHardWare*.
 
 User styles are CSS code designed to alter the appearance of one, some, or all sites.
 
-Instruction
--------------------------------
+## Instruction
 
-<strong>Step 1 : Install Stylus</strong> 
+**Step 1 : Install Stylus**
 
-<span>Depending of your browser.</span>
-+ for <a href="https://addons.mozilla.org/en-US/firefox/addon/styl-us/">Mozilla Firefox</a></li>
-+ for <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en">Google Chrome</a>
-+ for <a href="https://addons.opera.com/en-gb/extensions/details/stylus/?display=en">Opera</a>
+Depending of your browser.
 
-<strong>Step 2 : Install the script </strong>
-+ Directly with <b>Stylus</b> : <a href="https://github.com/OzakIOne/Kataki/blob/master/kataki.user.css">click here</a>
+* for [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
+* for [Google Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
+* for [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/?display=en)
 
-<strong>Step 3 : Show your appreciation </strong>
-<ol>
-<li>Feel free to comment this submission (critique, suggestion, compliment, etc).</li>
-<li>If you like my works, don't hesitate to watch me.</li>
-<li>You can share it, but don't forget to mention me.</li>
-</ol>
+**Step 2 : Install the script**
 
+* Directly with **Stylus** [click here](https://github.com/OzakIOne/Kataki/blob/master/kataki.user.css)
 
-Report
--------------------------------
+**Step 3 : Show your appreciation**
+
+1. Feel free to comment this submission (critique, suggestion, compliment, etc).
+2. If you like my works, don't hesitate to watch me.
+3. You can share it, but don't forget to mention me.
+
+## Report
 
 Don't hesitate to report any issues you find while using this userstyle.
