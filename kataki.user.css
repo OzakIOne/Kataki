@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Kataki
-@namespace      https://github.com/OzakIOne/Kataki
-@version        1.0.0
+@namespace      github.com/openstyles/stylus
+@version        1.0.1
 @description    An user style for ShopHardWare configurator called Kataki.
 @author         OzakI/OzakIOne
 ==/UserStyle== */
@@ -64,5 +64,13 @@ table.dataTable.display tbody tr.active, table.dataTable.display tbody tr.active
 
 .modal-content {
     background-color: #202020;
+}
+
+.no-config {
+    color: #9a9a9a;
+}
+
+.dataTables_scrollBody {
+    background: #303030;
 }
 }
